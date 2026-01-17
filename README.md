@@ -1,2 +1,2 @@
-# java-assignment
+# Sarang's Assignment
 university-java-lab
